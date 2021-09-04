@@ -1,0 +1,24 @@
+:root {
+    --primary-color: #C9CCD5;
+    --secondary-color: #504658;
+    --accent-color: #F96D80;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: var(--primary-color);
+}
+h1 {
+    color: var(--secondary-color);
+}
+.croissant-pic {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.link {
+    color: var(--accent-color);
+    margin: 0 10px;
+}
