@@ -5,18 +5,16 @@
 }
 
 body {
-    margin: 0;
+    margin-top: 20px;
     text-align: center;
     background-color: var(--primary-color);
 }
 h1 {
     color: var(--secondary-color);
 }
-.croissant-pic {
-    display: block;
-    margin: auto;
+img {
     margin-bottom: 20px;
-    border-radius: 8px;
+    border-radius: 8px
 }
 .link {
     color: var(--accent-color);
